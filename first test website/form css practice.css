@@ -1,0 +1,85 @@
+     body
+	 {
+		 background-color: grey;
+		 margin: 80px;"
+	}
+	 body background{
+		 background-size: cover;
+        background-position: 50%;
+        height: 80vh;
+        position: relative;
+
+	 }
+	
+	h2{
+		font-size: 42px;
+		padding-top: 36px;
+        padding-bottom: 12px;	
+	}
+	
+	form{
+		margin-left: auto;
+		margin-right: auto;
+		width: 700px;
+		text-align: center;
+		background-color: black;
+		border: 2px solid blue;
+		margin-top: 2px;
+	}
+	
+	#wrapper{
+		background-color: lightblue;
+	}
+	.name-name{
+		color: blue;
+		font-size: bold;
+	}
+	.image{
+		height: 70px;
+		width: 80px;
+		padding: 3px 6px;
+		
+	}
+	
+	.input-box{
+		margin-bottom: 18px;
+		margin-top: 5px;
+		padding-bottom: 3px;
+		padding-top:3px;
+		font-size: 12px
+		width: 100%;
+		border-top: 0;
+		border-right: 0;
+		border-left: 0;
+	}
+	
+	#form-input{
+		padding: 10px 40px 10px 40px ;
+	}
+	
+	#button{
+		background-color: white;
+		padding: 6px 14px ;
+		color: black;
+		margin-bottom: 4px;
+		border: none;
+	}
+
+    .nav-links{
+		color: white;
+        font-size: 20px;
+        font-weight: bold;
+        text-decoration: none;
+        transition: 0.5;
+        padding: 5px;
+        margin: 5px;
+	}
+	
+	.heads-up{
+		position: relative;
+        z-index: 1;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 2rem 4rem;
+	}
